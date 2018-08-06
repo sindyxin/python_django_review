@@ -1,6 +1,7 @@
-# python_guess_number
-### This for review python sytax and practice
-## Game description
+# Python and Django Review
+### python_guess_number
+* This for review python sytax and practice
+###### Game description
 * The computer will think of 3 digit number that has no repeating digits.
 * You will then guess a 3 digit number.
 * The computer will then give back clues.
