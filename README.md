@@ -22,3 +22,12 @@
 
 ## Error and Exception
 Even if there has an exception, will not broken code
+
+## Regular Expression
+Here is a very useful link to build regex: [Buil Regex](http://buildregex.com/)
+
+##Django(version 2.0.5)
+* Create Project: django-admin startproject first_project
+* run local server: python manage.py runserver
+* Create App: python manage.py startapp first_app
+* Inside first_project > setting.py file > INSATLLED_APPS=['first_app']
